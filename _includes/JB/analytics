@@ -1,0 +1,10 @@
+{% if site.safe and site.JB.analytics.provider and page.JB.analytics != false %}
+
+{% case site.JB.analytics.provider %}
+{% when "piwik" %}
+  {% include JB/analytics-providers/piwik %}
+{% when "custom" %}
+  {% include custom/analytics %}
+{% endcase %}
+
+{% endif %}
