@@ -96,3 +96,7 @@ h2, h3, h4, h5 {
 .eventtitle {
   font-size: 2em;
 }
+
+.blog-bild {
+  height: 200px;
+}
