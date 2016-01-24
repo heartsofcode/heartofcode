@@ -57,9 +57,9 @@
       var fd, arrDate, am, time;
       var calendar = {
         months: {
-          full: ['', 'January', 'February', 'March', 'April', 'May',
-            'June', 'July', 'August', 'September', 'October',
-            'November', 'December'
+          full: ['', 'Januar', 'Februar', 'März', 'April', 'Mai',
+            'Juni', 'Juli', 'August', 'September', 'Oktober',
+            'November', 'Dezember'
           ],
           short: ['', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul',
             'Aug', 'Sep', 'Oct', 'Nov', 'Dec'

@@ -10,6 +10,16 @@ body { padding-top: 50px;
 
 }
 
+p > a {
+   box-shadow: 0 -2px 0 #c8c8c8 inset;
+   color: inherit;
+}
+
+p > a:hover {
+  color: #c8c8c8;
+  text-decoration: none;
+}
+
 .navbar .nav,
 .navbar .nav > li {
   float:none;

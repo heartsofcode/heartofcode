@@ -1,11 +1,10 @@
 ---
 layout: page
 title: kalender
-tagline: was hier wieder los ist...
+tagline: terminlichkeiten und puff puff...
 header : kalender
 group: navigation
 weight : 2
-
 ---
 
 {% include JB/setup %}
@@ -20,9 +19,9 @@ weight : 2
        errorMsg:'No events in calendar',
        maxEvents: 50,
        futureEventsOnly: true,
-       sortDescending: true});
+       sortDescending: false});
   });
 
   debugger;
 </script>
-<div id="eventlist">*</div>
+<div id="eventlist"></div>
