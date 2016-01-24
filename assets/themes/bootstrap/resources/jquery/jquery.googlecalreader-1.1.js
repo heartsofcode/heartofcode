@@ -37,7 +37,8 @@
 					var description = item.description;
 					var location = item.location;
 					var eventDate = formatDate(eventdate, defaults.dateFormat.trim());
-          s ='<div class="eventdate">'+ eventDate +'</div>';
+          s ='<div class="evensplitter">'+ '*' +'</div>';
+          s +='<div class="eventdate">'+ eventDate +'</div>';
           s +='<div class="eventtitle">'+ summary +'</div>';
 					if(location) {
 						s +='<div class="location"> '+ location +'</div>';
@@ -45,6 +46,8 @@
 					if(description) {
 						s +='<div class="description">'+ description +'</div>';
 					}
+          s +='<div class="evensplitter">'+ '<br>' +'</div>';
+
 					$($div).append('<li>' + s + '</li>');
         });
       },
@@ -66,11 +69,11 @@
           ]
         },
         days: {
-          full: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday',
-            'Friday', 'Saturday', 'Sunday'
+          full: ['Sonntach,', 'Montach,', 'Dienstach,', 'Mittwoch,', 'Donnerstach,',
+            'Freitach,', 'Samstach,', 'Sonntach,'
           ],
-          short: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat',
-            'Sun'
+          short: ['So', 'Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa',
+            'So'
           ]
         }
       };
