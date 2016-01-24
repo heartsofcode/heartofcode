@@ -30,9 +30,7 @@ Wir wünschen unseren geneigten <a href="https://vimeo.com/148733313">Frauenster
 *Tschüssi & Bussi Bussi Bumm Bumm!!!
 
 
-
-
-english version
+<b>=== english ===</b>
  
 A snowy aloha to those escaping winter behind monitors!
 
