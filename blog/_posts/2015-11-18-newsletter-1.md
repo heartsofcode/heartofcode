@@ -12,13 +12,13 @@ img: /img/blog/hackerinnenspace.png
 Aloha liebe CodeCats und TechTanten!
 
 Los geht’s: Updates, Infos und Liebe, in mundgerechte Stücke verpackt!
-<<<<<<< Updated upstream:blog/_posts/2015-11-18-hello-worldinnen.md
-
-
-=======
 English version below!
+<<<<<<< HEAD
 
 >>>>>>> Stashed changes:blog/_posts/2015-11-18-newsletter-1.md
+=======
+ 
+>>>>>>> 936d4e032ee9daf2d2f8c24a60ebfc433e68987f
 Wir haben uns die letzten Wochen weitmaschig vernetzt, sind ausgeschwärmt und haben virtuell und real diverse Hacker- und Makerspaces auf der ganzen Welt abgeklappert, viele Löcher in viele Bäuche gefragt, Maschinen bestaunt, Strukturen studiert, nützlichen und unnützen Rat in die Laptoptaschen gestopft, gesponnen, beratschlagt, verworfen, und geplottet. Von umfunktionierten industriellen Roboterinnenarmen in Oslo über kalifornische Künstlerkloster zu maßgefertigten 3D-Druck-Dildo-Werstätten in Berlin, eine geistreiche Galoppade - wir sind sowas von startklar!
 
 
@@ -51,16 +51,19 @@ Achso, hier noch eine Auswahl an Wappentieren: Momonga, Quokka, Berliner Spatz -
 Vielen Dank für Ihre Aufmerksamkeit, alles Jute und bis ganz bald!
 
 Elise&Cat&Insa&Fiona&Paula
-<<<<<<< Updated upstream:blog/_posts/2015-11-18-hello-worldinnen.md
-=======
 
 
 ***
 
 
 
+<<<<<<< HEAD
 === english ===
 
+=======
+<b>=== english ===</b>
+ 
+>>>>>>> 936d4e032ee9daf2d2f8c24a60ebfc433e68987f
 Dearest CodeCats and TechTreasurines..
 
 
@@ -97,8 +100,11 @@ Cat&Elise&Fiona&Insa&Paula
 
 ***
 
+<<<<<<< HEAD
 
 
 
 
 >>>>>>> Stashed changes:blog/_posts/2015-11-18-newsletter-1.md
+=======
+>>>>>>> 936d4e032ee9daf2d2f8c24a60ebfc433e68987f
