@@ -12,8 +12,7 @@ img: /img/blog/hackerinnenspace.png
 <p>Aloha liebe CodeCats und TechTanten!
 <br><br>
 Los geht’s: Updates, Infos und Liebe, in mundgerechte Stücke verpackt!
-English version below!
-<br><br>
+English version below!<br><br>
 
 Wir haben uns die letzten Wochen weitmaschig vernetzt, sind ausgeschwärmt und haben virtuell und real diverse Hacker- und Makerspaces auf der ganzen Welt abgeklappert, viele Löcher in viele Bäuche gefragt, Maschinen bestaunt, Strukturen studiert, nützlichen und unnützen Rat in die Laptoptaschen gestopft, gesponnen, beratschlagt, verworfen, und geplottet. Von umfunktionierten industriellen Roboterinnenarmen in Oslo über kalifornische Künstlerkloster zu maßgefertigten 3D-Druck-Dildo-Werstätten in Berlin, eine geistreiche Galoppade - wir sind sowas von startklar!
 <br><br>
@@ -51,6 +50,7 @@ Elise&Cat&Insa&Fiona&Paula
 <br><br>
 === english ===
 <br><br>
+
 Dearest CodeCats and TechTreasurines..
 
 <br><br>
@@ -85,3 +85,6 @@ Sending our best, and hope to see you soon!
 Cat&Elise&Fiona&Insa&Paula
 
 </p>
+=======
+
+***
