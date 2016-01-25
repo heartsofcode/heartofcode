@@ -29,9 +29,9 @@ Wir wünschen unseren geneigten <a href="https://vimeo.com/148733313">Frauenster
 
 *Tschüssi & Bussi Bussi Bumm Bumm!!!
 
+<br>
+=== english ===
 
-<b>=== english ===</b>
- 
 A snowy aloha to those escaping winter behind monitors!
 
 Yessa, time flies. PR-Pros that we are we missed all the great holiday opportunities for bonding, but we did not forget about you a sec, obviously! We hope that you have already, like us, broken all those tedious resolutions, and are contently puffing smokes, munching on ice cream and chugging down all sorts of liquid caboodle. Hooray for drowning the memories of previous christmas past!
@@ -41,7 +41,7 @@ Thank you so much for the many answers to <a href="http://endlessboredom.us12.li
 
 The whole founding process right now is about as straighforward as a ball of yarn, but were slowly coming to grips with funding and the labyrinths of legal surrunding a non-profit association.
 To get things running and you guys spaceborne were getting our workshop program on the road next month in an interim location. We’re also planning some explorations to interesting events in other hackerspaces for everyone to join. Specific infos on what is going on (and where) will follow here in the newsletter.
-Until then hopefully our <a href="http://heartofcode.org">Website</a> will be up and running (almost there), with all the news and olds and inbetweens. For the moment we are of course on <a href="http://twitter.com/heartsofcode">Twitter</a> although not epically so. 
+Until then hopefully our <a href="http://heartofcode.org">Website</a> will be up and running (almost there), with all the news and olds and inbetweens. For the moment we are of course on <a href="http://twitter.com/heartsofcode">Twitter</a> although not epically so.
 You can also reach us via hello at heartofcode.org.
 ”The Heart of Gold's Improbability Drive made it  made it the most powerful and unpredictable ship in existence. There was nothing it couldn't do, provided you knew exactly how improbable it was that the thing you wanted it to do would ever happen.”
 

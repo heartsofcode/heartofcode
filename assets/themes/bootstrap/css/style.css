@@ -100,3 +100,8 @@ h2, h3, h4, h5 {
 .blog-bild {
   height: 200px;
 }
+
+.pagination li > a {
+  color: #999;;
+
+}
