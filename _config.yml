@@ -29,6 +29,8 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://heartofcode.org
+rss_path : rss.xml
+atom_path : atom.xml
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
