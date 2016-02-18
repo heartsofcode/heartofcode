@@ -6,7 +6,6 @@ author: Krake
 tags : [rundmail, 004]
 date: 2016-02-12
 type: post
-img: /img/blog/004.png
 ---
 
 Aloha euch an den Geräten!
