@@ -1,0 +1,27 @@
+---
+layout: page
+title : about
+header : about
+group: navigation
+weight : 1
+tagline: Liberté - Digitalité - <span title="[Sööö:höööö:rit'eeee]">Sœurité</span>
+
+---
+{% include JB/setup %}
+
+<br>
+<p>
+
+Die Heart of Code richtet sich an alle PyLadies, und RailsGirls, JavaLassies und 3D-Feen, Gamerinnen, Arduinas, NetzwerkNixen, LötGören, RaspberryRabaukinnen und alle anderen Frauensternchen mit Interesse an Bits, Bytes und Basteln. Sie ist ein Ort zum gemeinsamen Frickeln, kreativ werden und Abnerden - für mehr Vernetzung, mehr Gemeinschaft, und vor allem natürlich: mehr Hacken.</p>
+
+<<<<<<< HEAD
+<p>Wir wollen Frauen (und Menschen, die sich als solche identifizieren) den Zugang zu Informationstechnologien, Tools und Inhalten erleichtern, und damit die Hacking-Community und Tech-Landschaft langfristig diverser gestalten.</p>
+=======
+<p>Wir wollen Frauen (und Menschen, die sich als female identifizieren) den Zugang zu Informationstechnologien, Tools und Inhalten erleichtern, und damit die Hacking-Community und Tech-Landschaft langfristig diverser gestalten.</p>
+>>>>>>> master
+
+<p>Die Heart of Code soll eine Ergänzung der bereits vielfältigen und bunten Hackspace-Landschaft und Initiativen in Berlin sein. Es gibt keinen Masterplan, keine Präsidentin und keine politische Ideologie. Die Heart of Code ist nur eine Idee, von vielen Möglichen. Wir springen in eine große Lücke, die wir allein gar nicht ausfüllen können.
+Wir freuen uns auf Kooperationen, Partnerschaften, Zusammenarbeit und fröhliches Miteinander.</p>
+
+<p>Die Heart of Code ist unser Beitrag zu einer bunten Zukunft, in der alle friedlich gemeinsam digital abhonken.</p>
+
