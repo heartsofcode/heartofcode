@@ -9,8 +9,6 @@ type: post
 img: /img/blog/004.png
 ---
 
-DISCLAIMER: Achtung, ein paar Daten sind veraltet, wir wollen sie euch trotzdem nicht vorenthalten.
-
 Aloha euch an den Geräten!
 
 Der Frühling ist da! Naja fast. Aber nicht verzagen, für die letzten paar grauen Tage haben wir uns ein famoses Ablenkungsprogram ausgedacht. Bis man sich wieder im Hawaiihemd in den Görli hauen kann (aua, frostbyte!), verkriechen wir uns folgendermaßen und trinken unsern überteuerten Abwarte-Tee:
@@ -52,6 +50,8 @@ In the Pipeline:
 23.2. Nodeschool Beginners Workshop
 
 1.3. Netzpolitischer Abend @ c-base
+
+8.3. PyLadies MeetUp DesignPatterns
 
 21.3. Code & Cake (Ruby/Rails CodingMeetup)
  
