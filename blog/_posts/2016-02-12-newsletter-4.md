@@ -6,7 +6,7 @@ author: Heart of Code
 tags : [rundmail, 004]
 date: 2016-02-12
 type: post
-img: /img/blog/004.jpg
+img: /img/blog/nussletter42.jpg
 ---
 
 Aloha euch an den Geräten!
