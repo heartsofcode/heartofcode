@@ -2,7 +2,7 @@
 layout: post
 category : rundmail
 title: Nussletter #4
-author: Krake
+author: Heart of Code
 tags : [rundmail, 004]
 date: 2016-02-12
 type: post
