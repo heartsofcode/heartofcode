@@ -1,7 +1,7 @@
 ---
 layout: post
 category : rundmail
-title: Nussletter \#4.2
+title: Nussletter 4.2
 author: Heart of Code
 tags : [rundmail, 004]
 date: 2016-02-12

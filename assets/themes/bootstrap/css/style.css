@@ -91,6 +91,14 @@ h2, h3, h4, h5 {
   padding-top: 10px;
 }
 
+/*blog*/
+
+.blog {
+  text-align: justify;
+}
+
+/*kalender*/
+
 #eventlist { list-style:none; }
 #eventlist li { list-style:none; padding:3px; border-bottom:2px solid #eee;}
 .eventtitle {
