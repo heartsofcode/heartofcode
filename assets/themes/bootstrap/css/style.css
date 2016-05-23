@@ -91,6 +91,11 @@ h2, h3, h4, h5 {
   padding-top: 10px;
 }
 
+/*images*/
+#girlsdocode {
+  width: 100%;
+}
+
 /*blog*/
 
 .center-text > p, b, h2 {
