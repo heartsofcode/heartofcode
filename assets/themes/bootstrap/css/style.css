@@ -92,8 +92,11 @@ h2, h3, h4, h5 {
 }
 
 /*images*/
-#girlsdocode {
-  width: 100%;
+.workshop-block{
+  width: 45%;
+  margin-left: 3%;
+  margin-top: 10px;
+  margin-bottom:10px;
 }
 
 /*blog*/
