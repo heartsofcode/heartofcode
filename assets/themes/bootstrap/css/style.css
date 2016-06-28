@@ -93,10 +93,15 @@ h2, h3, h4, h5 {
 
 /*images*/
 .workshop-block{
-  width: 45%;
-  margin-left: 3%;
+  width: 90%;
   margin-top: 10px;
   margin-bottom:10px;
+}
+
+.add-startpage{
+  width: 50%;
+  margin-top: 10px;
+  margin-bottom: 50px;
 }
 
 /*blog*/
