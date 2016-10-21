@@ -11,7 +11,7 @@ body { padding-top: 50px;
 }
 
 p > a,
-p > h3 > a {
+h3 > a {
    box-shadow: 0 -2px 0 #c8c8c8 inset;
    color: inherit;
 }
