@@ -17,11 +17,12 @@ Während draußen die Sonne bruzelte haben wir Mitte September im Mädchentreff 
 
 
 Die Mädchen selber hatten sich vorher die schicken Blinktierchen ausgesucht und konnten sie am Ende stolz (und umringt von einer Schar Kinder) in ihrem Hinterhof ausführen. Möglich gemacht hat uns den Workshop der **[Code Week Award][1]** - dafür ein **großes Danke <3**.
-<div class="row"><div class="col-md-6"><img src="/img/hacksenzimmer/Foto2.jpg"/></div><div class="col-md-6"><img src="/img/hacksenzimmer/Foto3.jpg"/></div></div>
+
+ <img src="/img/hacksenzimmer/Foto2.jpg" width="500"/>  <img src="/img/hacksenzimmer/Foto3.jpg" width="500"/> 
 
 Wie das mit dem Löten funktioniert, was man beachten muss (nicht einatmen!!) und warum eine LED mal blinkt und mal nicht (mal fließt Strom, mal nicht - jup, it's that easy), das erklärten Irene, Britt und Paula. Obwohl es am Ende wirkt wie Magie (**ES BLINKT \o/**), ist Löten kein Hexenwerk (ok, vielleicht ein bisschen) und einen perfekten Lötpunkt braucht man auch nicht unbedingt - hauptsache der Strom fließt :) Das haben unsere jugendlichen Teilnehmerinnen auch ratz fatz erkannt und waren am Ende flotter mit den Kolben unterwegs, als die erwachsene Damenschar beim Vorbereitungslöten in der Woche davor.
 
-![hacksenzimmer2](/img/hacksenzimmer/Foto4.jpg =500x)
+<img src="/img/hacksenzimmer/Foto4.jpg" width="500"/> 
 
 **Und weil die Käfer inzwischen kleine Berühmtheiten in den Kreuzberger Südhöfen geworden sind, wiederholen wir das Ganze am 03.12.2016 (Anmeldung und weitere Infos per Mail an: code at heartofcode org)** 
  
