@@ -140,5 +140,5 @@ permalink: /blog/:year/:month/:day/:title.html
 
 gems: [jekyll-paginate]
 
-paginate: 7
+paginate: 30
 paginate_path: "/blog/page:num/"
