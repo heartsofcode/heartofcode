@@ -1,7 +1,7 @@
 ---
 layout: post
 category : nuss
-title: Ein Hertz für Hacker am 09. September - Open Doors für Non-Frauensternchen
+title: Ein Hertz für Hacker am 09. Oktober - Open Doors für Non-Frauensternchen
 author: Krake
 tags : [nuss]
 date: 2017-09-22
