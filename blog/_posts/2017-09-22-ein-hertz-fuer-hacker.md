@@ -4,7 +4,7 @@ category : nuss
 title: Ein Hertz für Hacker am 09. September - Open Doors für Non-Frauensternchen
 author: Krake
 tags : [nuss]
-date: 2017-07-12
+date: 2017-09-22
 type: post
 img: /img/blog/lumberjack.png
 ---
