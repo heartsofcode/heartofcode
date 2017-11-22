@@ -66,8 +66,9 @@ h2, h3, h4, h5 {
   text-align: justify;
 }
 
-.img-block {
-  height: 100px;
+.imgblock {
+  display: inline;
+  max-height: 100px;
 }
 
 .content-main-wrapper{
