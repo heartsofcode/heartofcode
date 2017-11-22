@@ -62,7 +62,7 @@ h2, h3, h4, h5 {
   font-weight: 100;
 }
 
-.justify > p, h3 {
+.justify{
   text-align: justify;
 }
 
