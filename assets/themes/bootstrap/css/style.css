@@ -68,7 +68,7 @@ h2, h3, h4, h5 {
 
 .imgblock > img {
   display: inline;
-  max-height: 100px;
+  max-height: 150px;
 }
 
 .content-main-wrapper{
