@@ -22,7 +22,7 @@ Ab 19h fangen wir an euch wieder vor die Tür zu setzen <3!
 
 Es ist eine Soli-ProChoice-Cryptoparty für die Unterstützung von Frauen aus Polen, die für Schwangerschaftsabbrüche nach Berlin kommen! Daher könnt ihr bei uns völlig überteuerte Getränke für den guten Zweck erwerben!
 
-<a href="mailto:heart@heartofcode.org?Subject=Ich%20will%20zur%20Cryptoparty%20am%2025.Nov">BITTE SCHICKT UNS EINE KURZE MAIL</a> Platz ist etwas begrenzt! 
+<a href="mailto:code@heartofcode.org?Subject=Ich%20will%20zur%20Cryptoparty%20am%2025.Nov">BITTE SCHICKT UNS EINE KURZE MAIL</a> Platz ist etwas begrenzt! 
 Lasst liebe Menschen auch davon wissen, ladet sie ein!
 
 Wir frrreuen uns dermaßen!
@@ -41,7 +41,7 @@ we'll throw you out after 7pm <3!
 This is a soli-ProChoice-Cryptoparty for supporters of women from Poland who seek abortions in Berlin! 
 Therefore you will have the chance to buy heavily overpriced drinks during the event!
 
-<a href="mailto:heart@heartofcode.org?Subject=I%20want%20to%20join%20the%20Cryptoparty%20on%20Nov25">PLEASE SEND US A SHORT EMAIL</a>,
+<a href="mailto:code@heartofcode.org?Subject=I%20want%20to%20join%20the%20Cryptoparty%20on%20Nov25">PLEASE SEND US A SHORT EMAIL</a>,
 space is a bit limited. PLEASE INVITE YOUR FRIENDS.
 
 See you there!
