@@ -2,15 +2,15 @@
 <div class="row post-full">
   <div class="col-md-12">
 
-    <div class="content">
+    <div class="content center-text">
       <h1>{{ post.title }}</h1>
       <img src="{{ post.img }}" alt="blog-bild" class="blog-bild"/>
-      <div class="post-date">{{ post.date | date:"%-d.%m.%Y" }} von {{ post.author }}</div>
+      <div class="post-date">{{ post.date | date:"%d.%m.%Y" }} von {{ post.author }}</div>
       <br>
-      <p>***</p>
+      <h4>***</h4>
       <p>{{ post.content }}</p>
       <br>
-      <p>***</p>
+      <h4>***</h4>
     </div>
 
 

@@ -7,10 +7,10 @@ body { padding-top: 50px;
   font-family: 'Josefin Sans', sans-serif;
   border-bottom: none;
   text-align:center;
-
 }
 
-p > a {
+p > a,
+h3 > a {
    box-shadow: 0 -2px 0 #c8c8c8 inset;
    color: inherit;
 }
@@ -62,13 +62,22 @@ h2, h3, h4, h5 {
   font-weight: 100;
 }
 
+.justify{
+  text-align: justify;
+}
+
+.imgblock > img {
+  display: inline;
+  max-height: 150px;
+}
+
 .content-main-wrapper{
   margin-bottom: 80px;
 }
 
 .content {
   font-family: 'Josefin Sans' , sans-serif;
-  font-weight: 100;
+  font-weight: 300;
   font-size: 1.2em;
   text-align: center;
 
@@ -90,6 +99,28 @@ h2, h3, h4, h5 {
   border-top: 1px #CCCCCC solid;
   padding-top: 10px;
 }
+
+/*images*/
+.workshop-block{
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom:10px;
+}
+
+.add-startpage{
+  width: 50%;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+/*blog*/
+
+.center-text > p, b, h2 {
+  text-align: justify;
+}
+
+
+/*kalender*/
 
 #eventlist { list-style:none; }
 #eventlist li { list-style:none; padding:3px; border-bottom:2px solid #eee;}
