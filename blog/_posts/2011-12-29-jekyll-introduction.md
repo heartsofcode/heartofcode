@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogpost
 category : rundmail
 title: Testpost
 author: Heart of Code e.V.

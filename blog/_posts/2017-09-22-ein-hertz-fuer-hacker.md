@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogpost
 category : nuss
 title: Ein Hertz für Hacker am 09. Oktober - Open Doors für Non-Frauensternchen
 author: Krake

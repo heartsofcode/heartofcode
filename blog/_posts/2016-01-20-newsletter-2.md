@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogpost
 category : rundmail
 title: Introducing the Heart of Code!
 author: Heart of Code e.V.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogpost
 category : rundmail
 title: Nussletter 4.2
 author: Heart of Code

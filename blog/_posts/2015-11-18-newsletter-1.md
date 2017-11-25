@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogpost
 category : rundmail
 title: Hackerinnenspace, es geht los!
 author: Heart of Code e.V.

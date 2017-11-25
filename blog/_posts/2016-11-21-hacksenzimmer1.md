@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogpost
 category : workshop
 title: Let's Löt
 author: Heart of Code
