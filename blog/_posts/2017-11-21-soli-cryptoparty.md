@@ -4,6 +4,7 @@ title: Soli ProChoice Cryptoparty am 25. November
 author: Bloody Marie
 date: 2017-11-21
 img: /img/blog/cp-hoc.png
+category: blogpost
 ---
 
 ***Soli ProChoice Cryptoparty***
