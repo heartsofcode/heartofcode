@@ -1,11 +1,10 @@
 ---
 layout: blogpost
-category : nuss
 title: Ein Hertz für Hacker am 09. Oktober - Open Doors für Non-Frauensternchen
 author: Krake
 tags : [nuss]
 date: 2017-09-22
-type: post
+
 category: blogpost
 img: /img/blog/lumberjack.png
 ---

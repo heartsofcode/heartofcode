@@ -1,13 +1,11 @@
 ---
 layout: blogpost
-category : rundmail
 title: Nussletter 4.2
 author: Heart of Code
-tags : [rundmail, 004]
 date: 2016-02-12
-type: post
-category: blogpost
 img: /img/blog/004.jpg
+category: blogpost
+tags : [rundmail, 004]
 ---
 
 Aloha euch an den Geräten!

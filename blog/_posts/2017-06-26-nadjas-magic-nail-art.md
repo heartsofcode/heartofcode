@@ -1,11 +1,10 @@
 ---
 layout: blogpost
-category : nuss
 title: Diesen Donnerstag zu Gast im Damensalon - Nadjas Magic Nail Arts Studio
 author: Heart of Code
 tags : [nuss]
 date: 2017-07-12
-type: post
+
 category: blogpost
 img: /img/blog/nadja.jpg
 ---

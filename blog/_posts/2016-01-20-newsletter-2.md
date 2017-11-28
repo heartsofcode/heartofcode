@@ -1,12 +1,11 @@
 ---
 layout: blogpost
-category : rundmail
 title: Introducing the Heart of Code!
 author: Heart of Code e.V.
-tags : [rundmail, 002]
 date: 2016-01-20
-type: post
 img: /img/blog/hoc-colour.png
+category: blogpost
+tags : [rundmail, 002]
 ---
 
 Ein verschneites aloha euch an den Geräten!

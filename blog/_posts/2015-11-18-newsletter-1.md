@@ -1,13 +1,11 @@
 ---
 layout: blogpost
-category : rundmail
 title: Hackerinnenspace, es geht los!
 author: Heart of Code e.V.
-tags : [rundmail, 001]
 date: 2015-11-18
-type: post
 category: blogpost
 img: /img/blog/hackerinnenspace.png
+tags : [rundmail, 001]
 ---
 
 <p>Aloha liebe CodeCats und TechTanten!
