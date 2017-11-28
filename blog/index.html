@@ -1,22 +1,18 @@
 ---
-layout: page
+layout: default
 title: blog
 tagline: die nuss des tages
 header: blog
 group: navigation
 weight : 4
-slug: block
-
+category: blogpost
 ---
-{% include JB/setup %}
 
 <div class="row">
-  	<div class="col-md-10 col-md-offset-1 blog">
-		{% for post in paginator.posts %}
-		    {% include themes/bootstrap/post.html post=post %}
-
+  <div class="col-md-10 col-md-offset-1 blog">
+    {% for post in paginator.posts %}
+      {% include themes/bootstrap/post.html post=post %}
 		{% endfor %}
-
 
     <ul class="pagination">
       {% if post.previous %}
