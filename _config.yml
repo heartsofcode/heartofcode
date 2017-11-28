@@ -149,7 +149,7 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
 
-permalink: /post/:title
+permalink: /post/:year-:month-:day/:title
 gems: [jekyll-paginate]
 
 paginate: 30
