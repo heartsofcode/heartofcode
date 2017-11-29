@@ -2,7 +2,7 @@
 
 ## HoC's website, a little Jekyll app built with GitHub Pages.
 
-This app is mostly static pages. If you want to make a change to text on http://heartofcode.org, you're in the right place!
+This app is mostly static pages. If you want to make a change to some text on http://heartofcode.org, you're in the right place!
 
 ## Development setup
 
@@ -32,7 +32,7 @@ If you are new to GitHub, you can [use this guide](http://railsbridge.github.io/
 1. Commit your changes
 
   ```
-  git commit -am 'Add some feature'
+  git commit -m 'Add some feature'
   ```
 
 1. Push your branch up to GitHub
