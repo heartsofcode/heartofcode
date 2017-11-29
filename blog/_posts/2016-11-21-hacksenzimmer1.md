@@ -1,11 +1,11 @@
 ---
-layout: post
-category : workshop
+layout: blogpost
 title: Let's Löt
 author: Heart of Code
 tags : [workshop, löten]
 date: 2016-09-15
-type: post
+
+category: blogpost
 img: /img/hacksenzimmer/Foto1.jpg
 ---
 
