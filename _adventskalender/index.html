@@ -10,7 +10,7 @@ weight: 5
 
 <div class="advent-container">
   {% for item in site.adventskalender %}
-    <div class="item">
+    <div {% if item.url == "/adventskalender" %} class="hidden" {% endif %} class="item">
       <a href="{{ item.url }}" class="advent-btn">
         <img src="{{ item.img }}"/>
         <div class="text">
