@@ -170,7 +170,7 @@ h2, h3, h4, h5 {
 }
 
 .advent-container .item .text {
-  font-size: 50px;
+  font-size: 20px;
   position: absolute;
   top: 50%;
   padding: 20px;
@@ -179,8 +179,8 @@ h2, h3, h4, h5 {
   word-break: break-all;
 }
 
-.advent-container .item .day {
-  font-size: 20px;
+.advent-container .item .title {
+  font-size: 50px;
 }
 .advent-btn:hover {
   color: rgba(228, 38, 0.8);
