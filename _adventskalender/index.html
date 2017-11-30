@@ -1,0 +1,22 @@
+---
+layout: default
+title: adventskalender
+tagline: Willkommen zu unseren 24 Türchen
+header: adventskalender
+permalink: /adventskalender
+group: navigation
+weight: 5
+---
+
+<div class="advent-container">
+  {% for item in site.adventskalender %}
+    <div class="item">
+      <a href="{{ item.url }}" class="advent-btn">
+        <img src="{{ item.img }}"/>
+        <div class="text">
+          <strong>{{ item.date | date:"%d" }}</strong><p>{{ item.title }}</p>
+        </div>
+      </a>
+    </div>
+  {% endfor %}
+</div>
