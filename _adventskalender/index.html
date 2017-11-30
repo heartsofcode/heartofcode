@@ -14,7 +14,10 @@ weight: 5
       <a href="{{ item.url }}" class="advent-btn">
         <img src="{{ item.img }}"/>
         <div class="text">
-          <strong>{{ item.date | date:"%d" }}</strong><p>{{ item.title }}</p>
+          <strong>{{ item.date | date:"%d" }}</strong>
+          <div class="day">
+            {{ item.title }}
+          </div>
         </div>
       </a>
     </div>
