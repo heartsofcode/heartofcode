@@ -31,7 +31,7 @@ Bis zum 24.12. sammeln wir Spenden und würden uns über eure Unterstützung wah
   <li>3. Lötstation von Weller 340€</li>
 </ul>
 
-Ihr könnt eure Spenden hier bei betterplace abgeben, per Post an **Heart of Code e.V., Skalitzer Str. 100 10997 Berlin** schicken, oder im Baumschiff vorbeibringen.
+Ihr könnt eure Spenden [hier bei betterplace](https://www.betterplace.org/de/projects/58907-merry-drucking-adventskalender-der-heart-of-code-e-v) abgeben, per Post an **Heart of Code e.V., Skalitzer Str. 100 10997 Berlin** schicken, oder im Baumschiff vorbeibringen.
 
 Es winken der freudige Glanz in den Augen vieler Generationen von HOC Bastlerinnen und ewiger Dank. Spender\*innen mit großem Portemonai (ab 42€) können sich zudem über **Plastik-Klumpen am Baum** freuen: selbstgedruckter Christbaumschmuck der besonderen Art, außerdem gibts **handbekrakelte Postkarten und aufregende Baumschiffbesuche** zu gewinnen.
 
