@@ -13,7 +13,7 @@ category: blogpost
 
 Weihnachten steht vor der Tür, allgegenwärtig muss man sich bald in den einschlägigen Büros dieser Stadt Glühwein in die Birne kippen, Grünkohl wettessen, und beim Spekulatius bingen in Stressschweiss ausbrechen ob der noch zu bastelnden Geschenke und der anstehenden 34C3 Assembly - Ihr kennt das.
 
-Die Heart of Code hat dieses Jahr viele spannende aufregende spaßige tolle Dinge erlebt und ins Rollen gebracht, und dafür wollten wir uns jetzt mal hart Gönnen und endlich die 3D Druckerin unserer Träume in unsere heiligen Baumschiffhallen stellen.
+Die Heart of Code hat dieses Jahr viele spannende aufregende spaßige tolle Dinge erlebt und ins Rollen gebracht, und dafür wollten wir uns jetzt mal hart Gönnen und endlich die 3D Druckerin unserer Träume in unsere heiligen Baumschiffhallen stellen und mit ganz viel Filametta behängen.
 
 ### Dafür brauchen wir eure Weihnachts-Dineros!
 
