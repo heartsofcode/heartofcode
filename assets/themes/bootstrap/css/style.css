@@ -9,6 +9,11 @@ body { padding-top: 50px;
   text-align:center;
 }
 
+iframe {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 p > a,
 h3 > a {
    box-shadow: 0 -2px 0 #c8c8c8 inset;
