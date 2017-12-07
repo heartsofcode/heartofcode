@@ -3,7 +3,7 @@ layout: blogpost
 title: Double Trouble am Wochenende mit der Heart of Code: Hackday und Weihnnachtsfeier
 author: kr4k3
 date: 2017-12-07
-img: /img/heartofcode42.jpg
+img: /img/blog/heartofcode42.jpg
 category: blogpost
 ---
 
