@@ -9,11 +9,11 @@ category: blogpost
 
 ---
 
-### Liebeliebeliebe Freund*innen und Unterstützer*innen,
+### Liebeliebeliebe Freund\*innen und Unterstützer\*innen,
 
 Weihnachten steht vor der Tür, allgegenwärtig muss man sich bald in den einschlägigen Büros dieser Stadt Glühwein in die Birne kippen, Grünkohl wettessen, und beim Spekulatius bingen in Stressschweiss ausbrechen ob der noch zu bastelnden Geschenke und der anstehenden 34C3 Assembly - Ihr kennt das.
 
-Die Heart of Code hat dieses Jahr viele spannende aufregende spaßige tolle Dinge erlebt und ins Rollen gebracht, und dafür wollten wir uns jetzt mal hart Gönnen und endlich die 3D Druckerin unserer Träume in unsere heiligen Baumschiffhallen stellen.
+Die Heart of Code hat dieses Jahr viele spannende aufregende spaßige tolle Dinge erlebt und ins Rollen gebracht, und dafür wollten wir uns jetzt mal hart Gönnen und endlich die 3D Druckerin unserer Träume in unsere heiligen Baumschiffhallen stellen und mit ganz viel Filametta behängen.
 
 ### Dafür brauchen wir eure Weihnachts-Dineros!
 
@@ -31,10 +31,13 @@ Bis zum 24.12. sammeln wir Spenden und würden uns über eure Unterstützung wah
   <li>3. Lötstation von Weller 340€</li>
 </ul>
 
-Ihr könnt eure Spenden hier bei betterplace abgeben, per Post an Heart of Code e.V., Skalitzer Str. 100 10997 Berlin schicken, oder im Baumschiff vorbeibringen.
+Ihr könnt eure Spenden [hier bei betterplace](https://www.betterplace.org/de/projects/58907-merry-drucking-adventskalender-der-heart-of-code-e-v) abgeben, per Post an **Heart of Code e.V., Skalitzer Str. 100 10997 Berlin** schicken, oder im Baumschiff vorbeibringen.
 
-Es winken der freudige Glanz in den Augen vieler Generationen von HOC Bastlerinnen und ewiger Dank. Spender*innen mit großem Portemonai (ab 42€) können sich zudem über Plastik-Klumpen am Baum freuen: selbstgedruckter Christbaumschmuck der besonderen Art.
+Es winken der freudige Glanz in den Augen vieler Generationen von HOC Bastlerinnen und ewiger Dank. Spender\*innen mit großem Portemonai (ab 42€) können sich zudem über **Plastik-Klumpen am Baum** freuen: selbstgedruckter Christbaumschmuck der besonderen Art, außerdem gibts **handbekrakelte Postkarten und aufregende Baumschiffbesuche** zu gewinnen.
 
 Wir sind ein gemeinnütziger Verein, und haben hoffentlich bis Weihnachten auch den entsprechenden Wisch um das  nachzuweisen. Ihr könnt eure mildtätigen Gaben dann also gerne von der Steuer absetzen. <br> Gebt es nicht dem Staat für teure AfDienstwagen, gebt es besser uns!
 
-Übrigens: am 9. und 10.12. gibt es unten im Atttelier einen kunterbunten Kunstweihnachtsmarkt, leckeres aus dem Flammkuchenrohr, synthesizer Choräle und hochprozentiges aus der Glühweinkanone. Samstag abend geht es dann beschwippst beschwingt die Leiter hoch zum besinnlichen Baumschiffbeisammensein: die Heart of Code feiert Weihnachten - feiert mit!
+Übrigens: am **9. und 10.12.** gibt es unten im [Atttelier](https://www.openstreetmap.org/node/5051931215) einen kunterbunten **Kunstweihnachtsmarkt, leckeres aus dem Flammkuchenrohr, synthesizer Choräle und hochprozentiges aus der Glühweinkanone**. Samstag abend geht es dann beschwippst beschwingt die Leiter hoch zum besinnlichen Baumschiffbeisammensein: die Heart of Code feiert Weihnachten - feiert mit!
+<br>
+<iframe frameborder="0" marginheight="0" marginwidth="0" src="https://www.betterplace-widget.org/projects/58907?l=de" height="320">Informieren und spenden: <a href='https://www.betterplace.org/de/projects/58907-merry-drucking-adventskalender-der-heart-of-code-e-v' target='_blank'>„Merry Drucking - Adventskalender der Heart of Code e.V.“</a> auf betterplace.org öffnen.</iframe>
+<br>
