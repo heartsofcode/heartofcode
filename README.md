@@ -2,6 +2,9 @@
 
 ## HoC's website, a little Jekyll app built with GitHub Pages.
 
+### The live version runs on gh-pages, so you better open pull request against that branch and not against master.
+Switch to gh-pages to make change happen!
+
 This app is mostly static pages. If you want to make a change to some text on http://heartofcode.org, you're in the right place!
 
 ## Development setup
