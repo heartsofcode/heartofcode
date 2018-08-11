@@ -60,7 +60,6 @@ p > a:hover {
   border-top: 1px #CCCCCC solid;
   border-bottom: 1px #CCCCCC solid;
   padding: 12px;
-
 }
 
 h2, h3, h4, h5 {
@@ -86,7 +85,6 @@ h2, h3, h4, h5 {
   font-weight: 300;
   font-size: 1.2em;
   text-align: center;
-
 }
 
 .footer {
@@ -155,8 +153,8 @@ h2, h3, h4, h5 {
 
 .advent-container .item {
   position: relative;
-  color: rgba(228, 38, 38, 0.7);
-  border-color:  rgba(228, 38, 38, 0.7);
+  color: rgba(0,191,175) ;
+  border-color:  rgba(0,191,175) ;
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
@@ -189,8 +187,8 @@ h2, h3, h4, h5 {
   font-size: 50px;
 }
 .advent-btn:hover {
-  color: rgba(228, 38, 0.8);
-  border-color: rgba(255, 255, 255, 0.3);
+  color: rgba(0,191,175);
+  border-color: rgba(0,191,175);
 }
 .advent-btn + .advent-btn {
   margin-left: 1rem;

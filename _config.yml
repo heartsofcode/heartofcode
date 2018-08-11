@@ -153,6 +153,9 @@ collections:
   adventskalender:
     output: true
     permalink: /tuerchen-:day
+  stechlin:
+    output: true
+    permalink: /:year-:month-:day
 
 permalink: /post/:year-:month-:day/:title
 gems: [jekyll-paginate]
