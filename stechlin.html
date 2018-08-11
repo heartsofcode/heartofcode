@@ -1,0 +1,25 @@
+---
+layout: stechlin
+title: stechlin
+tagline: Heart of Camp
+header: stechlin
+permalink: /stechlin
+group: navigation
+weight: 3
+---
+
+<div class="advent-container">
+  {% for item in site.stechlin %}
+    <div class="item">
+      <a href="{{ item.url }}" class="advent-btn">
+        <img src="{{ item.img }}"/>
+        <div class="text">
+          <div class="title">
+            <strong>{{ item.date | date:"%d" }}</strong>
+          </div>
+          {{ item.title }}
+        </div>
+      </a>
+    </div>
+  {% endfor %}
+</div>
