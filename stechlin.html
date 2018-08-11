@@ -10,7 +10,7 @@ weight: 5
 
 <div class="stechlin-container">
   {% for item in site.stechlin-blog %}
-    <div {% if item.url == "/stechlin-blog" %} class="hidden" {% endif %} class="item">
+    <div {% if item.url="/stechlin-blog" %} class="hidden" {% endif %} class="item">
       <a href="{{ item.url }}" class="advent-btn">
         <img src="{{ item.img }}"/>
         <div class="text">
