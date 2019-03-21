@@ -156,6 +156,10 @@ collections:
   stechlin:
     output: true
     permalink: /stechlin_:day
+  calafou:
+    output: true
+    permalink: /calafou_:day
+
 
 permalink: /post/:year-:month-:day/:title
 gems: [jekyll-paginate]
