@@ -1,0 +1,35 @@
+---
+layout: calafou
+title: calafou
+tagline: Calafou Blog
+header: calafou
+permalink: /calafou
+group: navigation
+weight: 3
+---
+
+<h3>10 Tage Heart of Camp</h3>
+
+<div class="advent-container">
+  {% for item in site.calafou %}
+    <div class="item">
+      <a href="{{ item.url }}" class="advent-btn">
+        <img src="{{ item.img }}"/>
+        <div class="text">
+          <div class="title">
+            <strong>{{ item.date | date:"%d %B" }}</strong>
+          </div>
+          {{ item.title }}
+        </div>
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
+
+<p>10 Tage in <a href="https://calafou.org/en/">Calafou</a> in Katalonien</p>
+
+<p>Es gibt wieder ein Heart of Camp und diesmal sind wir in .... Spanien. Genauer gesagt in einer kleinen postindustriellen Oase südlich von Barcelona. Wie sind nicht nur Gäste, sondern für die nächsten knapp 10 Tage Teil den selbstverwalteten Projektes Calafou. Hier bauen viele engagierte Menschen alternative soziale und technische Infrastrukturen - und die Idee ist: wir machen mit. Und die Herausforderung ist: wir lernen auch weiter programmieren. Wie in unserem letzten Heart of Camp in Stechlin (/stechlin_1), bringen wieder alle unterschiedliche Wissensstände mit. Und die Idee ist, sich gegenseitig beim Lernen und Verstehen zu unterstützen. Wir hoffen, auch ihr nehmt von diesem Blog etwas mit!
+</p>
+
+<p>***</p>
