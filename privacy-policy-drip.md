@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: blogpost
 title : privacy policy drip
+category: blogpost
 header : privacy policy drip
-tagline: Privacy Policy drip
+
 ---
 
 ## Introduction
