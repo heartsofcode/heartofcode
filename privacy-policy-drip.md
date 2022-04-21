@@ -1,7 +1,6 @@
 ---
 layout: default
 title : privacy policy drip
-category: blogpost
 header : privacy policy drip
 
 ---
